@@ -76,7 +76,8 @@ nav a:hover{
 }
 
 .applynow a{
-    color:#B3541E
+    color:#B3541E;
+    text-shadow: 0 1px 0.5px rgba(255, 255, 255, 0.453);
 }
 svg{
     cursor: pointer;
